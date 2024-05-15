@@ -1,0 +1,4 @@
+http://log:pass@ip:port
+http://log:pass@ip:port
+http://log:pass@ip:port
+http://log:pass@ip:port
